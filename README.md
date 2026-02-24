@@ -29,7 +29,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
-### Installation
+### Installation(Kali Linux)
 
 - Just, Clone this repository -
   ```
@@ -56,5 +56,6 @@ You can easily install Mr.Star in Termux by using
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Mr.Star* in any of the termux discussion groups.
+
 
 
