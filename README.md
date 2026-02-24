@@ -55,12 +55,13 @@ You can easily install Mr.Star in Termux by using
  bash mrstar.sh
 ```
 
-### “When Cloudflared does not generate a link, use the localhost option. After running the localhost server, forward the port using this command in a new terminal.”
+### “When Cloudflared does not generate a link, use the localhost option. After running the localhost server, forward the port using this command in a new terminal.”(It genrates the Link)
 ```
 ./cloudflared tunnel --url http://localhost:8888
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Mr.Star* in any of the termux discussion groups.
+
 
 
 
