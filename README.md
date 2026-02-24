@@ -33,7 +33,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/MadhuSudhan138/Mr.Star.git
+  git clone https://github.com/MadhuSudhan138/Mr.Star.git
   ```
 
 - Now go to cloned directory and run `mrstar.sh` -
@@ -56,4 +56,5 @@ You can easily install Mr.Star in Termux by using
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Mr.Star* in any of the termux discussion groups.
+
 
