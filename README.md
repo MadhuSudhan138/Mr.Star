@@ -49,10 +49,11 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 ### Installation (Termux)
 You can easily install Mr.Star in Termux by using 
 ```
-$ apt install git 
-$ git clone https://github.com/MadhuSudhan138/Mr.Star.git
-$ cd Mr.Star
-$ bash mrstar.sh
+ apt install git 
+ git clone https://github.com/MadhuSudhan138/Mr.Star.git
+ cd Mr.Star
+ bash mrstar.sh
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Mr.Star* in any of the termux discussion groups.
+
