@@ -36,10 +36,10 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   git clone https://github.com/MadhuSudhan138/Mr.Star.git
   ```
 
-- Now go to cloned directory and run `mrstar.sh` -
+- Now go to cloned directory and run -
   ```
-  $ cd Mr.Star
-  $ bash mrstar.sh
+   cd Mr.Star
+   bash mrstar.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Mr.Star*** is installed.
@@ -56,6 +56,7 @@ You can easily install Mr.Star in Termux by using
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *Mr.Star* in any of the termux discussion groups.
+
 
 
 
